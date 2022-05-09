@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://oxygen-qq9mv27j6mrll.oxygen-demo.qsandbox.me/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/pagar-bambu-tangerang-selatan.html</loc>
+		<lastmod>2022-03-08T09:17:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tirai-bambu-polos-tangerang-selatan.html</loc>
+		<lastmod>2022-03-08T05:21:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bale-bambu-temanggung.html</loc>
+		<lastmod>2022-03-07T19:16:48+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/meja-bambu-kendal.html</loc>
 		<lastmod>2022-03-07T18:44:04+00:00</lastmod>
 	</url>
@@ -33,10 +45,6 @@
 		<lastmod>2022-03-06T06:08:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-cilegon.html</loc>
-		<lastmod>2022-03-05T22:03:27+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/minibar-bambu-sumenep.html</loc>
 		<lastmod>2022-03-05T22:01:39+00:00</lastmod>
 	</url>
@@ -63,10 +71,6 @@
 	<url>
 		<loc>/rak-tv-bambu-cilacap.html</loc>
 		<lastmod>2022-03-04T02:48:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gazebo-bambu-pekalongan.html</loc>
-		<lastmod>2022-03-03T22:59:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bale-bambu-pacitan.html</loc>
@@ -113,10 +117,6 @@
 		<lastmod>2022-03-01T15:14:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-pangandaran.html</loc>
-		<lastmod>2022-02-28T20:59:55+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/kursi-bambu-dieng.html</loc>
 		<lastmod>2022-02-28T13:37:12+00:00</lastmod>
 	</url>
@@ -131,10 +131,6 @@
 	<url>
 		<loc>/minibar-bambu-sragen.html</loc>
 		<lastmod>2022-02-27T18:25:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gazebo-bambu-jepara.html</loc>
-		<lastmod>2022-02-27T09:52:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lemari-bambu-sampang.html</loc>
@@ -191,10 +187,6 @@
 	<url>
 		<loc>/tirai-bambu-motif-bangkalan.html</loc>
 		<lastmod>2022-02-24T07:24:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gazebo-bambu-batang.html</loc>
-		<lastmod>2022-02-24T06:07:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bingkai-cermin-bambu-pasuruan.html</loc>
@@ -257,10 +249,6 @@
 		<lastmod>2022-02-22T03:36:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-tulungagung.html</loc>
-		<lastmod>2022-02-22T03:09:29+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/besek-bambu-surakarta.html</loc>
 		<lastmod>2022-02-22T03:02:56+00:00</lastmod>
 	</url>
@@ -319,6 +307,58 @@
 	<url>
 		<loc>/besek-bambu-wonosobo.html</loc>
 		<lastmod>2022-02-19T19:27:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-madura.html</loc>
+		<lastmod>2022-02-19T16:45:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/tirai-bambu-motif-blitar.html</loc>
@@ -389,16 +429,8 @@
 		<lastmod>2022-02-17T03:20:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-jakarta-selatan.html</loc>
-		<lastmod>2022-02-16T20:34:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/anyaman-bambu-klaten.html</loc>
 		<lastmod>2022-02-16T14:36:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gazebo-bambu-banjar.html</loc>
-		<lastmod>2022-02-16T10:33:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bingkai-cermin-bambu-jakarta-utara.html</loc>
@@ -427,6 +459,58 @@
 	<url>
 		<loc>/bale-bambu-probolinggo.html</loc>
 		<lastmod>2022-02-14T19:31:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-jakarta-barat.html</loc>
+		<lastmod>2022-02-14T19:01:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/tirai-bambu-motif-banjar.html</loc>
@@ -477,6 +561,58 @@
 		<lastmod>2022-02-12T08:39:59+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/gazebo-bambu-jakarta-utara.html</loc>
+		<lastmod>2022-02-12T07:01:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/tirai-bambu-polos-tegal.html</loc>
 		<lastmod>2022-02-12T03:26:27+00:00</lastmod>
 	</url>
@@ -503,6 +639,58 @@
 	<url>
 		<loc>/tirai-bambu-polos-sidoarjo.html</loc>
 		<lastmod>2022-02-10T19:16:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-batang.html</loc>
+		<lastmod>2022-02-10T09:06:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/bingkai-cermin-bambu-banyumas.html</loc>
@@ -553,6 +741,58 @@
 		<lastmod>2022-02-06T10:11:12+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/gazebo-bambu-malang.html</loc>
+		<lastmod>2022-02-06T03:43:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/besek-bambu-sukoharjo.html</loc>
 		<lastmod>2022-02-05T23:04:14+00:00</lastmod>
 	</url>
@@ -593,12 +833,112 @@
 		<lastmod>2022-02-03T14:25:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-yogyakarta.html</loc>
-		<lastmod>2022-02-03T12:12:22+00:00</lastmod>
+		<loc>/gazebo-bambu-tegal.html</loc>
+		<lastmod>2022-02-03T11:10:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/pagar-bambu-malang.html</loc>
 		<lastmod>2022-02-03T02:12:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-ngawi.html</loc>
+		<lastmod>2022-02-03T00:05:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/meja-bambu-grobogan.html</loc>
@@ -609,12 +949,60 @@
 		<lastmod>2022-02-01T15:12:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-magelang.html</loc>
-		<lastmod>2022-02-01T05:52:34+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/besek-bambu-kuningan.html</loc>
 		<lastmod>2022-01-31T10:38:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-pandeglang.html</loc>
+		<lastmod>2022-01-31T02:58:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/lampu-hias-bambu-blora.html</loc>
@@ -625,12 +1013,60 @@
 		<lastmod>2022-01-30T23:16:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-dieng.html</loc>
-		<lastmod>2022-01-30T21:23:29+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/lemari-bambu-surabaya.html</loc>
 		<lastmod>2022-01-30T17:34:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-lebak.html</loc>
+		<lastmod>2022-01-30T15:24:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/minibar-bambu-tegal.html</loc>
@@ -639,10 +1075,6 @@
 	<url>
 		<loc>/tirai-bambu-motif-tasikmalaya.html</loc>
 		<lastmod>2022-01-29T22:15:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gazebo-bambu-lamongan.html</loc>
-		<lastmod>2022-01-29T19:48:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pagar-bambu-jombang.html</loc>
@@ -659,10 +1091,6 @@
 	<url>
 		<loc>/tirai-bambu-motif-brebes.html</loc>
 		<lastmod>2022-01-29T01:27:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gazebo-bambu-klaten.html</loc>
-		<lastmod>2022-01-28T22:20:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lemari-bambu-sumenep.html</loc>
@@ -699,6 +1127,58 @@
 	<url>
 		<loc>/tirai-bambu-polos-ngawi.html</loc>
 		<lastmod>2022-01-26T07:50:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gazebo-bambu-bogor.html</loc>
+		<lastmod>2022-01-25T23:07:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Meja-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/kursi-bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lemari-Pakaian-Bambu-6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/ranjang-bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Amben-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Rak-TV-Bambu-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/rak-bambu-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Minibar-Bambu-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Lampu-Hias-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Anyaman-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Motif-9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Tirai-Bambu-Polos-8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/jual-besek-bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Bingkai-Cermin-Bambu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Pagar-Bambu-7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Gazebo-Bambu-11.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/lampu-hias-bambu-karawang.html</loc>
@@ -745,10 +1225,6 @@
 		<lastmod>2022-01-22T20:14:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-jogja.html</loc>
-		<lastmod>2022-01-22T09:56:42+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/lampu-hias-bambu-pacitan.html</loc>
 		<lastmod>2022-01-22T03:36:01+00:00</lastmod>
 	</url>
@@ -777,10 +1253,6 @@
 		<lastmod>2022-01-19T12:11:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gazebo-bambu-grobogan.html</loc>
-		<lastmod>2022-01-19T09:09:31+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/anyaman-bambu-bandung.html</loc>
 		<lastmod>2022-01-19T04:47:57+00:00</lastmod>
 	</url>
@@ -799,6 +1271,14 @@
 	<url>
 		<loc>/lemari-bambu-banten.html</loc>
 		<lastmod>2022-01-18T02:40:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/minibar-bambu-sleman.html</loc>
+		<lastmod>2022-01-18T02:18:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/anyaman-bambu-madura.html</loc>
+		<lastmod>2022-01-17T14:31:38+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
